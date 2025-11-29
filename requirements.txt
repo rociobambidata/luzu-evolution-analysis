@@ -1,0 +1,7 @@
+google-api-python-client
+pandas
+numpy
+tqdm
+isodate
+matplotlib
+wordcloud
