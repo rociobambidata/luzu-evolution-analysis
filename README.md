@@ -39,7 +39,7 @@ No local dataset is included in this repository, as all information is retrieved
 ---
 
 ## Repository Structure
-
+```
 /notebooks
 Luzu_5years_evolution.ipynb
 
@@ -47,7 +47,7 @@ Luzu_5years_evolution.ipynb
 Luzu - 5 años de evolución.pdf
 
 requirements.txt
-
+```
 ---
 
 ## Key Findings
@@ -65,9 +65,10 @@ requirements.txt
 
 1. Clone or download the repository  
 2. Install dependencies:
-
+```
 pip install -r requirements.txt
-
+```
 3. Run the notebook:
-
+```
 /notebooks/Luzu_5years_evolution.ipynb
+```
