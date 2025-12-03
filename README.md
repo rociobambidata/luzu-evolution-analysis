@@ -61,6 +61,52 @@ requirements.txt
 
 ---
 
+## 📊 Key Visualizations
+
+Below are the most representative visualizations from the analysis of **Luzu TV’s evolution (2020–2025)**.
+
+---
+
+### 🔵 Average Metrics per Year  
+![Average metrics per year](figures/avg_metrics_per_year.png)
+
+---
+
+### 🟢 Engagement per Year  
+![Engagement per year](figures/engagement_per_year.png)
+
+---
+
+### 🟣 Likes, Comments & Engagement Comparison  
+![Likes, comments and engagement](figures/likes_comments_engagement.png)
+
+---
+
+### 🔶 Overall Yearly Overview  
+![Yearly overview](figures/luzu_yearly_overview.png)
+
+---
+
+### 🟦 Number of Videos Published per Year  
+![Videos per year](figures/videos_per_year.png)
+
+---
+
+### 🟪 Average Video Duration per Year  
+![Videos duration per year](figures/videos_duration_per_year.png)
+
+---
+
+### 🟧 Word Clouds of Video Titles (2020–2025)  
+![Wordclouds](figures/wordclouds.png)
+
+---
+
+> All visualizations and the full analysis can be found in the notebook:  
+> **`notebooks/Luzu_5years_evolution.ipynb`**
+
+---
+
 ## How to Reproduce
 
 1. Clone or download the repository  
