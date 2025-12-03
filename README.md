@@ -61,7 +61,7 @@ requirements.txt
 
 ---
 
-## 📊 Key Visualizations
+## Key Visualizations
 
 Below are the most representative visualizations from the analysis of **Luzu TV’s evolution (2020–2025)**.
 
